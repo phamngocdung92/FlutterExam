@@ -11,7 +11,7 @@ class FakePlacesResponse {
       "name": "Saigon",
       "imageUrl": "https://vcdn1-english.vnecdn.net/2023/08/26/376521692942376-1693015106-169-9638-9187-1693015359.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=-WBhv756vDIhcvM0fpPOKA",
       "rating": 4.5
-    },
+    }
   ]
   ''';
 }
